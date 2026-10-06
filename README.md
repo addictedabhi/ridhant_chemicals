@@ -25,7 +25,7 @@ CNAME                   Custom domain for GitHub Pages
 All text is plain HTML so search engines and AI assistants can read it without running JavaScript.
 - **Add or change a product:** in `products.html`, copy an `<article class="card product">` block inside the right family. Set `data-cat` to the family id and `data-ind` to the industries separated by `|`, using the exact industry names from the filter dropdown. Then add the product name to the matching industry cards in `industries.html`, update the product count on the home page card, and add it to `llms.txt`.
 - **After any content change:** update `<lastmod>` in `sitemap.xml`.
-- **Email / phone / address:** search and replace `info@ridhantchemicals.com`, `+91 96194 10242` and `Kota, Rajasthan` across the HTML files, including the JSON-LD blocks in `index.html`, `home.html` and `contact.html`, and `llms.txt`.
+- **Email / phone / address:** search and replace `info@ridhantchemicals.com`, `+91 99294 77295` and `Kota, Rajasthan` across the HTML files, including the JSON-LD blocks in `index.html`, `home.html` and `contact.html`, and `llms.txt`.
 - **Map:** in `contact.html`, replace the iframe `src` with the embed URL of the exact office location (Google Maps → Share → Embed a map).
 - **Partner logos:** in `partners.html`, replace each `<span>Partner logo N</span>` with `<img src="assets/img/partners/name.png" alt="Name">`. To show the page again, remove its `noindex` meta tag, add it back to the nav, footer and `sitemap.xml`.
 
@@ -50,7 +50,7 @@ All photos are self-hosted in `assets/img/` (CC0 photos from rawpixel / StockSna
 3. For the custom domain, keep `CNAME`, then point the DNS: `A` records to 185.199.108–111.153, or a `CNAME` for `www` to `<user>.github.io`.
 
 ## To verify with the client
-- Phone number (+91 96194 10242) was read from handwritten notes. Hours are Mon–Fri 9–5 (Sat & Sun closed), taken from the old website.
+- Phone number (+91 99294 77295) confirmed by the client. Hours are Mon–Fri 9–5 (Sat & Sun closed), taken from the old website.
 - 12-HSA salt descriptions (zinc, lithium, magnesium) are generic application text; confirm with the supplier TDS.
 - Product names ESBO, ATO and Potassium Stearate were interpreted from the line card.
 - The product-to-industry mapping is a first draft.
