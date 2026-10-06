@@ -93,7 +93,7 @@
   }
   @keyframes drift { to { transform:translate3d(-4%, 3%, 0) scale(1.06); } }
 
-  .molecule { position:absolute; right:-80px; bottom:-60px; width:min(560px, 80vw); opacity:.35; }
+  .molecule { position:absolute; right:-90px; bottom:-150px; width:min(560px, 80vw); opacity:.3; }
   .molecule .bond { stroke:var(--sky); stroke-width:2; fill:none; stroke-dasharray:240; stroke-dashoffset:240; animation:draw 2.4s ease-out forwards; }
   .molecule .atom { fill:var(--navy-900); stroke:var(--sky); stroke-width:2; transform-box:fill-box; transform-origin:center; animation:pulse 4s ease-in-out infinite; }
   .molecule .atom:nth-of-type(2n) { animation-delay:-1.3s; }
@@ -127,10 +127,15 @@
   .btn-main:hover { background:var(--ice); transform:translateY(-2px); }
   .btn-ghost { border:1.5px solid rgba(159,190,226,.35); color:var(--text); }
   .btn-ghost:hover { border-color:var(--sky); color:#fff; transform:translateY(-2px); }
-  @media (max-width:480px) { .actions .btn { flex:1 1 100%; } }
+  @media (max-width:480px) {
+    .actions .btn { flex:1 1 100%; }
+    .meta { flex-direction:column; align-items:flex-start; gap:0; }
+    .molecule { opacity:.16; }
+  }
 
   .meta { margin-top:18px; display:flex; flex-wrap:wrap; gap:10px 22px; font-size:14px; color:var(--muted); }
   .meta a { display:inline-block; padding-top:12px; text-decoration:none; border-bottom:1px solid rgba(159,190,226,.35); padding-bottom:2px; }
+  .meta span { padding-top:12px; padding-bottom:3px; }
   .meta a:hover { color:#fff; border-color:var(--sky); }
 
   /* Signature: periodic-table tile with orbiting electrons */
@@ -199,7 +204,7 @@
 </div>
 
 <header class="wrap">
-  <a class="logo rise" href="https://ridhantchemicals.com/" aria-label="Ridhant Speciality Chemicals"><img src="assets/img/logo-white.svg" alt="Ridhant Speciality Chemicals LLP" width="137" height="54"></a>
+  <a class="logo rise" href="./" aria-label="Ridhant Speciality Chemicals"><img src="assets/img/logo-white.svg" alt="Ridhant Speciality Chemicals LLP" width="137" height="54"></a>
   <span class="status rise d1"><i aria-hidden="true"></i><span class="long">Reaction </span>in progress</span>
 </header>
 

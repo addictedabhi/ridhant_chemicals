@@ -6,3 +6,4 @@
 - Brand: logo assets/img/ridhant-logo-horizontal.svg (white: logo-white.svg). Colours navy #03295A, blue #2F78BD. Fonts: Lora (headings) + Manrope (body). Light, clean, professional.
 - No forms: every enquiry is a mailto: link to info@ridhantchemicals.com.
 - Cookie consent is in main.js. Optional scripts go only in loadOptionalScripts().
+- Pre-launch: index.html is a standalone coming-soon page (inline CSS, no main.js); the real home page is home.html. README has the launch steps.
