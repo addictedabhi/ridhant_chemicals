@@ -6,7 +6,7 @@ Contact: info@ridhantchemicals.com, +91 96194 10242. Hours: Monday to Friday, 9:
 
 ## Pages
 
-- [Home](https://ridhantchemicals.com/): overview, product families, industries served
+- [Home](https://ridhantchemicals.com/home.html): overview, product families, industries served
 - [About us](https://ridhantchemicals.com/about.html): who we are, vision, mission and how we work
 - [Products](https://ridhantchemicals.com/products.html): full product list with applications and industries
 - [Industries](https://ridhantchemicals.com/industries.html): what we supply to each industry and why
