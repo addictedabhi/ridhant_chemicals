@@ -26,7 +26,7 @@ All text is plain HTML so search engines and AI assistants can read it without r
 - **Add or change a product:** in `products.html`, copy an `<article class="card product">` block inside the right family. Set `data-cat` to the family id and `data-ind` to the industries separated by `|`, using the exact industry names from the filter dropdown. Then add the product name to the matching industry cards in `industries.html`, update the product count on the home page card, and add it to `llms.txt`.
 - **After any content change:** update `<lastmod>` in `sitemap.xml`.
 - **Email / phone / address:** search and replace `info@ridhantchemicals.com`, `+91 99294 77295` and `Kota, Rajasthan` across the HTML files, including the JSON-LD blocks in `index.html`, `home.html` and `contact.html`, and `llms.txt`.
-- **Map:** in `contact.html`, replace the iframe `src` with the embed URL of the exact office location (Google Maps → Share → Embed a map).
+- **Map:** `contact.html` embeds the Google Maps listing by its CID (`maps.google.com/maps?cid=13909101664820586979&output=embed`). "Open in Google Maps", the footer address and the JSON-LD `hasMap` use the share link https://maps.app.goo.gl/4vucG1acEwjMCmqj7.
 - **Partner logos:** in `partners.html`, replace each `<span>Partner logo N</span>` with `<img src="assets/img/partners/name.png" alt="Name">`. To show the page again, remove its `noindex` meta tag, add it back to the nav, footer and `sitemap.xml`.
 
 ## Colours
