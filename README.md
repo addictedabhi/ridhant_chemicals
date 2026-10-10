@@ -9,7 +9,7 @@ index.html          Coming-soon page (standalone, styles inline, links only to e
 home.html           Home (full site; reachable directly at /home.html)
 about.html          About us
 products.html       Products (search + filter by family / industry, ?cat= ?industry= ?q=)
-industries.html     Industries (11 cards, deep links: industries.html#ind-plastics)
+industries.html     Industries (9 cards, deep links: industries.html#ind-plastics)
 contact.html        Contact + Google Map
 partners.html       Partners / principals (hidden: noindex, not linked from any page)
 404.html            Not-found page (uses root-absolute paths so it works at any URL depth)
@@ -23,7 +23,7 @@ CNAME                   Custom domain for GitHub Pages
 
 ## Editing content
 All text is plain HTML so search engines and AI assistants can read it without running JavaScript.
-- **Add or change a product:** in `products.html`, copy an `<article class="card product">` block inside the right family. Set `data-cat` to the family id and `data-ind` to the industries separated by `|`, using the exact industry names from the filter dropdown. Then add the product name to the matching industry cards in `industries.html`, update the product count on the home page card, and add it to `llms.txt`.
+- **Add or change a product:** in `products.html`, copy an `<article class="card product">` block inside the right family. Set `data-cat` to the family id and `data-ind` to the industries separated by `|`, using the exact industry names from the filter dropdown. Then update the product count on the home page card, and add it to `llms.txt`.
 - **After any content change:** update `<lastmod>` in `sitemap.xml`.
 - **Email / phone / address:** search and replace `info@ridhantchemicals.com`, `+91 99294 77295` and `Kota, Rajasthan` across the HTML files, including the JSON-LD blocks in `index.html`, `home.html` and `contact.html`, and `llms.txt`.
 - **Map:** `contact.html` embeds the Google Maps listing by its CID (`maps.google.com/maps?cid=13909101664820586979&output=embed`). "Open in Google Maps", the footer address and the JSON-LD `hasMap` use the share link https://maps.app.goo.gl/4vucG1acEwjMCmqj7.
@@ -52,5 +52,5 @@ All photos are self-hosted in `assets/img/` (CC0 photos from rawpixel / StockSna
 ## To verify with the client
 - Phone number (+91 99294 77295) confirmed by the client. Hours are Mon–Fri 9–5 (Sat & Sun closed), taken from the old website.
 - 12-HSA salt descriptions (zinc, lithium, magnesium) are generic application text; confirm with the supplier TDS.
-- Product names ESBO, ATO and Potassium Stearate were interpreted from the line card.
+- Potassium Stearate was interpreted from the line card.
 - The product-to-industry mapping is a first draft.
