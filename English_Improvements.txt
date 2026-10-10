@@ -1,0 +1,129 @@
+ENGLISH PROOFREAD – CONSOLIDATED LIST (ROUND 1 + ROUND 2)
+
+Style followed across the website:
+- British English spelling
+- Sentence case for headings; title case for product and family names
+- No full stop at the end of headings
+- "and" in sentences; "&" only in names and short labels
+- Proper typographic apostrophes (’)
+- Same punctuation pattern for the same type of text
+
+-------------------------------------------------------------
+A. CHANGES MADE
+-------------------------------------------------------------
+
+1. HEADINGS – full stop removed at the end
+   - Home:        "Delivering chemistry, building trust"
+   - Home:        "From plastics to food, we know what each process needs"
+   - Home:        "More than a supplier, a technical partner"
+   - About:       "Bridging global chemistry"
+   - Coming soon: "A new formula is almost ready"
+   (Kept: "Source. Advise. Supply." – full stops are intentional.)
+
+2. LONG INDUSTRY SENTENCES – rewritten for correct grammar
+   - Home:  "We serve industries including polyolefins, plastics,
+     construction, paints, hot melt adhesives, paper, ink and
+     coatings, personal care and lubricants. We supply high-quality
+     speciality chemicals and additives, together with the technical
+     expertise ..."
+   - About: "... technical solutions to industries including
+     polyolefins, plastics, construction, paints, hot melt adhesives,
+     paper, ink and coatings, personal care and lubricants."
+
+3. "&" REPLACED WITH "AND" IN FULL SENTENCES
+   - Home page intro:        "metallic stearates, PE and PP waxes ..."
+   - Coming soon page:       "... PE and PP waxes, liquid dispersions ..."
+   - Products page intro:    "Metallic stearates, 12-HSA salts, PE and
+                              PP waxes ..."
+   - Contact page:           "Saturday and Sunday: closed"
+   - llms.txt (AI file):     same change as the home page
+   ("&" kept in names: PE & PP Waxes, Fillers & Minerals, Ink &
+   Coatings, Antioxidant 225 & Blends.)
+
+4. PROPER APOSTROPHES (’ instead of ') – 10 places
+   - We’re (coming soon page)
+   - don’t (home, products)
+   - We’ll (home, about, products, industries, partners)
+   - Let’s (contact)
+
+5. PRODUCT DESCRIPTIONS – same punctuation pattern
+   - Zinc Stearate: "Lubricant, release agent and flatting agent;
+     improves flow and surface finish." (full stop in the middle
+     changed to a semicolon, matching all other product descriptions)
+   - UV Stabilisers: "Protects polymers ..." (was "Protect")
+
+6. NAMES WRITTEN ONE WAY ONLY
+   - "GMS 90/95" everywhere (was also "GMS 90 / 95")
+   - "Antioxidant 225 & Blends" (was "& blends")
+   - "Antistatic" as one word
+   - "Hot melt adhesives" and "road marking paint" without hyphens,
+     following industry usage (was "hot-melt road-marking paint")
+   - "Plastics", "Ink & Coatings" (plural forms used consistently)
+
+7. DAYS AND TIMES
+   - Footer:  "Mon–Fri, 9:00 am – 5:00 pm IST" (was "Mon – Fri")
+   - Contact: "Monday to Friday, 9:00 am – 5:00 pm IST"
+              (was "Monday – Friday")
+
+8. CONTACT PAGE CHECKLIST
+   - "Product name or grade and the application" (extra comma removed)
+   - "Whether you need a TDS, an SDS or a sample" ("an" before SDS)
+
+9. OTHER WORDING
+   - Partners page: "We’ll get back to you within two working days."
+     (was "We’ll come back ...")
+   - Screen-reader label: "Ridhant Speciality Chemicals – Home"
+     (proper dash instead of a hyphen)
+   - 404 page browser title: "Page Not Found | Ridhant Speciality
+     Chemicals" (title case, like the other page titles)
+
+10. CAPITAL LETTERS
+   - Mid-sentence words made lower case where they were not names
+   - Product and family names in title case throughout
+   - Both parts of hyphenated names capitalised in titles
+     ("Oxo-Biodegradable Additives", "12-Hydroxystearate")
+
+11. HYPHENS
+   - "LDPE- and HDPE-based waxes" (suspended hyphen added)
+   - "12-HSA" and "GMS-SE / GMS-NSE" no longer break across two lines
+
+-------------------------------------------------------------
+B. CHECKED AND CONFIRMED CORRECT – NO CHANGE NEEDED
+-------------------------------------------------------------
+
+12. Spelling – British throughout: speciality, stabilisers, optimise,
+    customised, mould, oxidised, colour, aluminium. No American
+    spellings found.
+
+13. Family card text – two styles used on purpose:
+    - Lists of product names have NO full stop (labels, not
+      sentences): "Zinc / Calcium / Magnesium / Aluminium / Sodium /
+      Potassium", "Talc, Calcium Hydroxide, Calcium Oxide and Calcium
+      Carbonate", "Calcium Propionate / Sodium Propionate / GMS-SE /
+      GMS-NSE", "PVC Stabilisers / UV Stabilisers", "GMS 90/95",
+      "CES / COS / MNS".
+    - Descriptive phrases DO end with a full stop: Liquid Dispersions,
+      PE & PP Waxes, Antioxidants, 12-HSA Salts.
+
+14. Bullet lists (contact checklist, partners page) – short items
+    correctly have no full stop.
+
+15. Headings – page headings in sentence case ("Industries we serve",
+    "Who we are"); browser tab titles in title case ("About Us |
+    Ridhant ..."), the normal convention.
+
+16. Numbers – spelt out in sentences ("nine core industries", "two
+    working days"); figures in statistics and badges ("9 industries",
+    "33 products").
+
+17. Dashes – "Mon–Fri" (no spaces), "9:00 am – 5:00 pm" (spaces,
+    because each side contains a space).
+
+18. Hyphens – correct in water-based, high-quality, cost-effective,
+    long-term, anti-caking, anti-block, 12-hydroxystearate.
+
+19. Abbreviations – "a TDS", "an SDS" (article chosen by sound);
+    "e.g." correctly punctuated in the search box.
+
+20. Page titles and Google descriptions – grammatical and within
+    length limits (titles up to 60 characters, descriptions up to 160).
