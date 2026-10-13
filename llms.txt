@@ -44,9 +44,9 @@ LDPE- and HDPE-based waxes, PP wax, oxidised PE wax and PE wax emulsions.
 
 ### Antioxidants
 Primary and secondary antioxidants that protect polymers and oils from heat and oxidation.
-- Antioxidant 1010: Processing aid.
-- Antioxidant 168: Processing aid.
-- Antioxidant 225 & Blends: Processing aid.
+- Antioxidant 1010: Additive.
+- Antioxidant 168: Additive.
+- Antioxidant 225 & Blends: Additive.
 
 ### Fillers & Minerals
 Talc, Calcium Hydroxide, Calcium Oxide and Calcium Carbonate
