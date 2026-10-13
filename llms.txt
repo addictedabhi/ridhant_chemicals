@@ -41,7 +41,6 @@ LDPE- and HDPE-based waxes, PP wax, oxidised PE wax and PE wax emulsions.
 - PP Wax: Processing aid.
 - Oxidised PE Wax: Processing aid.
 - PE Wax Emulsion: Processing aid.
-- EBS Wax: Ethylene bis-stearamide for slip, anti-block and mould release.
 
 ### Antioxidants
 Primary and secondary antioxidants that protect polymers and oils from heat and oxidation.
@@ -78,13 +77,13 @@ CES / COS / MNS
 - MNS: Additive.
 
 ### Other Speciality Chemicals
-Zinc Laurate / Pentaerythritol Tetrastearate (PETS) / Nucleating Agents / Ethylene Bis-Oleamide (EBO) / Antimony Trioxide (ATO)
+Zinc Laurate / Pentaerythritol Tetrastearate (PETS) / Nucleating Agents / Ethylene Bis-Oleamide (EBO) / Antimony Trioxide (ATO) / EBS Wax
 - Zinc Laurate: Internal and external lubricant, heat stabiliser and mould release agent.
 - Pentaerythritol Tetrastearate (PETS): Release agent and lubricant for engineering plastics.
 - Nucleating Agents: Faster cycle times, higher clarity and stiffness in polypropylene and compounds.
 - Ethylene Bis-Oleamide (EBO): Slip agent, anti-blocking agent, internal and external lubricant, mould release agent and pigment dispersant for polymer and industrial manufacturing.
 - Antimony Trioxide (ATO): Flame-retardant synergist for plastics and paints.
-
+- EBS Wax: Ethylene bis-stearamide for slip, anti-block and mould release.
 Further speciality grades are sourced on request; email info@ridhantchemicals.com with the grade and application.
 
 ## Industries served
