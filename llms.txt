@@ -1,12 +1,12 @@
 # Ridhant Speciality Chemicals LLP
 
-> Rapidly emerging speciality chemicals company based in Kota, Rajasthan, India. Supplies metallic stearates, 12-HSA salts, PE and PP waxes, liquid stearate dispersions, antioxidants, fillers, food additives, stabilisers, antistatic additives and oxo-biodegradable additives to manufacturers across the globe, with application and technical support.
+> Rapidly emerging speciality chemicals company based in Kota, Rajasthan, India. Supplies metallic stearates, 12-HSA salts, PE and PP waxes, liquid stearate dispersions, antioxidants, fillers, food additives, stabilisers, antistatic additives, oxo-biodegradable additives and other speciality chemicals to manufacturers across the globe, with application and technical support.
 
 Contact: info@ridhantchemicals.com, +91 99294 77295. Address: Plot No. 50, New Grain Mandi, DCM Road, Kota, Rajasthan 324007, India (Google Maps: https://maps.app.goo.gl/4vucG1acEwjMCmqj7). Hours: Monday to Friday, 9:00 am to 5:00 pm IST. Technical data sheets, safety data sheets and samples on request.
 
 ## Pages
 
-- [Home](https://ridhantchemicals.com/home.html): overview, 10 product families and the industries we serve
+- [Home](https://ridhantchemicals.com/home.html): overview, 11 product families and the industries we serve
 - [About us](https://ridhantchemicals.com/about.html): who we are, vision, mission and how we work
 - [Products](https://ridhantchemicals.com/products.html): full product list with applications and industries
 - [Industries](https://ridhantchemicals.com/industries.html): the nine industries we serve, each linked to its matching products
@@ -15,18 +15,18 @@ Contact: info@ridhantchemicals.com, +91 99294 77295. Address: Plot No. 50, New G
 ## Product families
 
 ### Metallic Stearates
-Zinc, calcium, magnesium, aluminium, sodium and potassium stearates plus zinc laurate, working as lubricants, release agents, acid scavengers and stabilisers.
+Zinc, calcium, magnesium, aluminium, sodium and potassium stearates, working as lubricants, release agents, acid scavengers and stabilisers.
 - Zinc Stearate: Lubricant, release agent and flatting agent; improves flow and surface finish.
 - Calcium Stearate: Acid scavenger and internal lubricant for PVC and polyolefins; water repellent for construction.
 - Magnesium Stearate: Lubricant and anti-caking agent with a smooth, fine texture.
 - Aluminium Stearate: Thickener, gelling and matting agent for paints, inks and greases.
 - Sodium Stearate: Emulsifier and gelling agent; nucleating aid for polymers.
 - Potassium Stearate: Emulsifier for latex and rubber compounding.
-- Zinc Laurate: Activator and internal lubricant for rubber compounds.
 
 ### 12-HSA Salts
-Zinc, lithium and magnesium salts of 12-hydroxystearic acid (12-HSA) for grease thickening, lubrication and mould release.
+Zinc, calcium, lithium and magnesium salts of 12-hydroxystearic acid (12-HSA) for grease thickening, lubrication and mould release.
 - Zinc 12-Hydroxystearate: Zinc salt of 12-hydroxystearic acid (12-HSA); lubricant and release agent for polymers and rubber.
+- Calcium 12-Hydroxystearate: Calcium 12-HSA salt; thickener for calcium greases and lubricant for polymer processing.
 - Lithium 12-Hydroxystearate: Lithium 12-HSA soap; the standard thickener for multipurpose and high-temperature lithium greases.
 - Magnesium 12-Hydroxystearate: Magnesium 12-HSA salt; lubricant and thickening agent for greases and polymer processing.
 
@@ -77,8 +77,15 @@ CES / COS / MNS
 - COS: Oxo-biodegradable additive grade that helps polyolefin films and packaging break down after use.
 - MNS: Oxo-biodegradable additive grade that helps polyolefin films and packaging break down after use.
 
-### Other Speciality Additives
-Other speciality additives are sourced on request; email info@ridhantchemicals.com with the grade and application.
+### Other Speciality Chemicals
+Zinc Laurate / Pentaerythritol Tetrastearate (PETS) / Nucleating Agents / Ethylene Bis-Oleamide (EBO) / Antimony Trioxide (ATO)
+- Zinc Laurate: Activator and internal lubricant for rubber compounds.
+- Pentaerythritol Tetrastearate (PETS): Release agent and lubricant for engineering plastics.
+- Nucleating Agents: Faster cycle times, higher clarity and stiffness in polypropylene.
+- Ethylene Bis-Oleamide (EBO): Slip and anti-block agent with a lower melting point than EBS, for polyolefin films and masterbatch.
+- Antimony Trioxide (ATO): Flame-retardant synergist for plastics and paints.
+
+Further speciality grades are sourced on request; email info@ridhantchemicals.com with the grade and application.
 
 ## Industries served
 
