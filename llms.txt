@@ -9,7 +9,7 @@ Contact: info@ridhantchemicals.com, +91 99294 77295. Address: Plot No. 50, New G
 - [Home](https://ridhantchemicals.com/home.html): overview, 11 product families and the industries we serve
 - [About us](https://ridhantchemicals.com/about.html): who we are, vision, mission and how we work
 - [Products](https://ridhantchemicals.com/products.html): full product list with applications and industries
-- [Industries](https://ridhantchemicals.com/industries.html): the nine industries we serve, each linked to its matching products
+- [Industries](https://ridhantchemicals.com/industries.html): the eleven industries we serve, each linked to its matching products
 - [Contact](https://ridhantchemicals.com/contact.html): email, phone, hours and location
 
 ## Product families
@@ -18,48 +18,48 @@ Contact: info@ridhantchemicals.com, +91 99294 77295. Address: Plot No. 50, New G
 Zinc, calcium, magnesium, aluminium, sodium and potassium stearates, working as lubricants, release agents, acid scavengers and stabilisers.
 - Zinc Stearate: Lubricant, release agent and flatting agent; improves flow and surface finish.
 - Calcium Stearate: Acid scavenger and internal lubricant for PVC and polyolefins; water repellent for construction.
-- Magnesium Stearate: Lubricant and anti-caking agent with a smooth, fine texture.
+- Magnesium Stearate: Internal and external lubricant for plastics; improves texture, adhesion and stability in personal care.
 - Aluminium Stearate: Thickener, gelling and matting agent for paints, inks and greases.
-- Sodium Stearate: Emulsifier and gelling agent; nucleating aid for polymers.
-- Potassium Stearate: Emulsifier for latex and rubber compounding.
+- Sodium Stearate: Functional additive and lubricant for plastics; cleansing, emulsifying and gelling agent in personal care.
+- Potassium Stearate: Processing aid.
 
 ### 12-HSA Salts
 Zinc, calcium, lithium and magnesium salts of 12-hydroxystearic acid (12-HSA) for grease thickening, lubrication and mould release.
-- Zinc 12-Hydroxystearate: Zinc salt of 12-hydroxystearic acid (12-HSA); lubricant and release agent for polymers and rubber.
-- Calcium 12-Hydroxystearate: Calcium 12-HSA salt; thickener for calcium greases and lubricant for polymer processing.
+- Zinc 12-Hydroxystearate: Zinc salt of 12-hydroxystearic acid (12-HSA); lubricant.
+- Calcium 12-Hydroxystearate: Calcium 12-HSA salt; thickener for calcium greases and lubricant for engineering plastics.
 - Lithium 12-Hydroxystearate: Lithium 12-HSA soap; the standard thickener for multipurpose and high-temperature lithium greases.
-- Magnesium 12-Hydroxystearate: Magnesium 12-HSA salt; lubricant and thickening agent for greases and polymer processing.
+- Magnesium 12-Hydroxystearate: Magnesium 12-HSA salt; lubricant for engineering plastics.
 
 ### Liquid Dispersions
 Water-based calcium and zinc stearate dispersions.
-- Calcium Stearate Dispersion: Water-based dispersion for paper coatings, gypsum and waterproofing.
-- Zinc Stearate Dispersion: Water-based anti-tack and release dispersion; matting for coatings.
+- Calcium Stearate Dispersion: Water-based dispersion.
+- Zinc Stearate Dispersion: Water-based dispersion.
 
 ### PE & PP Waxes
 LDPE- and HDPE-based waxes, PP wax, oxidised PE wax and PE wax emulsions.
-- PE Wax (LDPE & HDPE): Processing aid and dispersant for masterbatch, PVC and hot melt road marking paint.
-- PP Wax: High-melt wax for masterbatch dispersion and slip.
-- Oxidised PE Wax: External lubricant for rigid PVC; adds gloss and release.
-- PE Wax Emulsion: Adds scuff resistance, slip and water repellency to coatings, inks and paper.
+- PE Wax (LDPE & HDPE): Processing aid.
+- PP Wax: Processing aid.
+- Oxidised PE Wax: Processing aid.
+- PE Wax Emulsion: Processing aid.
 - EBS Wax: Ethylene bis-stearamide for slip, anti-block and mould release.
 
 ### Antioxidants
 Primary and secondary antioxidants that protect polymers and oils from heat and oxidation.
-- Antioxidant 1010: Primary phenolic antioxidant for long-term thermal stability.
-- Antioxidant 168: Phosphite secondary antioxidant for processing stability.
-- Antioxidant 225 & Blends: Synergistic 1010/168 blends for polyolefins.
+- Antioxidant 1010: Processing aid.
+- Antioxidant 168: Processing aid.
+- Antioxidant 225 & Blends: Processing aid.
 
 ### Fillers & Minerals
 Talc, Calcium Hydroxide, Calcium Oxide and Calcium Carbonate
-- Talc: Reinforcing filler and nucleator; improves stiffness and processing.
-- Calcium Hydroxide (Hydrated Lime): Alkaline filler and neutraliser for construction products, PVC compounds and rubber.
-- Calcium Oxide (CaO): Moisture scavenger for desiccant masterbatch and construction products.
-- Calcium Carbonate (CaCO₃): Cost-effective filler that adds stiffness and opacity to plastics, paints, rubber, paper and construction products.
+- Talc: Additive.
+- Calcium Hydroxide (Hydrated Lime): Additive.
+- Calcium Oxide (CaO): Additive.
+- Calcium Carbonate (CaCO₃): Additive.
 
 ### Food Additives
 Calcium Propionate / Sodium Propionate / GMS-SE / GMS-NSE
-- Calcium Propionate: Mould inhibitor for bread and bakery products.
-- Sodium Propionate: Preservative for bakery, dairy and processed foods.
+- Calcium Propionate: Additive.
+- Sodium Propionate: Additive.
 - GMS-SE / GMS-NSE: Glycerol monostearate, self- and non-self-emulsifying, for food and cosmetic emulsions.
 
 ### Stabilisers
@@ -69,20 +69,20 @@ PVC Stabilisers / UV Stabilisers
 
 ### Antistatic Additives
 GMS 90/95
-- Glycerol Monostearate (GMS 90/95): Distilled monoglyceride; antistatic and anti-shrink agent for EPE foam and polyolefin films.
+- Glycerol Monostearate (GMS 90/95): Distilled monoglyceride; antistatic agent.
 
 ### Oxo-Biodegradable Additives
 CES / COS / MNS
-- CES: Oxo-biodegradable additive grade that helps polyolefin films and packaging break down after use.
-- COS: Oxo-biodegradable additive grade that helps polyolefin films and packaging break down after use.
-- MNS: Oxo-biodegradable additive grade that helps polyolefin films and packaging break down after use.
+- CES: Additive.
+- COS: Additive.
+- MNS: Additive.
 
 ### Other Speciality Chemicals
 Zinc Laurate / Pentaerythritol Tetrastearate (PETS) / Nucleating Agents / Ethylene Bis-Oleamide (EBO) / Antimony Trioxide (ATO)
-- Zinc Laurate: Activator and internal lubricant for rubber compounds.
+- Zinc Laurate: Internal and external lubricant, heat stabiliser and mould release agent.
 - Pentaerythritol Tetrastearate (PETS): Release agent and lubricant for engineering plastics.
-- Nucleating Agents: Faster cycle times, higher clarity and stiffness in polypropylene.
-- Ethylene Bis-Oleamide (EBO): Slip and anti-block agent with a lower melting point than EBS, for polyolefin films and masterbatch.
+- Nucleating Agents: Faster cycle times, higher clarity and stiffness in polypropylene and compounds.
+- Ethylene Bis-Oleamide (EBO): Slip agent, anti-blocking agent, internal and external lubricant, mould release agent and pigment dispersant for polymer and industrial manufacturing.
 - Antimony Trioxide (ATO): Flame-retardant synergist for plastics and paints.
 
 Further speciality grades are sourced on request; email info@ridhantchemicals.com with the grade and application.
@@ -98,3 +98,5 @@ Further speciality grades are sourced on request; email info@ridhantchemicals.co
 - Ink & Coatings: Wax emulsions, stearate dispersions and matting agents for slip, scuff resistance and controlled gloss in printing inks and industrial coatings.
 - Personal Care: Stearates, talc and GMS for creams and powders, with smooth texture and stable emulsions.
 - Lubricants: Thickeners and antioxidants for greases and industrial lubricants, including lithium 12-hydroxystearate, aluminium stearate and calcium stearate.
+- Abrasives: Zinc stearate dispersions as anti-tack and release agents for bonded and coated abrasives.
+- Food: Calcium and sodium propionate preservatives and GMS emulsifiers for bakery, dairy and processed foods.

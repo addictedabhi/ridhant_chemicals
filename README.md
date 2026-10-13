@@ -9,7 +9,7 @@ index.html          Coming-soon page (standalone, styles inline, links only to e
 home.html           Home (full site; reachable directly at /home.html)
 about.html          About us
 products.html       Products (search + filter by family / industry, ?cat= ?industry= ?q=)
-industries.html     Industries (9 cards, deep links: industries.html#ind-plastics)
+industries.html     Industries (11 cards, deep links: industries.html#ind-plastics)
 contact.html        Contact + Google Map
 partners.html       Partners / principals (hidden: noindex, not linked from any page)
 404.html            Not-found page (uses root-absolute paths so it works at any URL depth)
